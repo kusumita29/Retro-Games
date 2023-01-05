@@ -6,4 +6,5 @@ Currently, there are three games:
 1. Tetris
 2. Flappy Bird
 3. Space Fight (2-player) 
+4. Tic-Tac-Toe
 
